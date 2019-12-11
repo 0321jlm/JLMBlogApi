@@ -8,11 +8,11 @@ An app to write all about ice cream. From your favorite flavers to your favorite
 
 # MVP Features
 
-User Authentication
-View all entries
-Edit entries if you are the author
-Create new entries
-Delete entries if you are the author
+1. User Authentication
+2. View all entries
+3. Edit entries if you are the author
+4. Create new entries
+5. Delete entries if you are the author
 
 # Technologies
 
